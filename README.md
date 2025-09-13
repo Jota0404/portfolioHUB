@@ -1,4 +1,4 @@
-# Portifólio- João Marcos de Barcelos Fernandes
+# Portfólio- João Marcos de Barcelos Fernandes
 - Estudante de ADS no CEUB
 - Estudante de Direito na Uniprocessus
 - Estagiário no STJ desde 2023.
