@@ -1,4 +1,6 @@
 # Portfólio- João Marcos de Barcelos Fernandes
+Esse repositório terá o intuito de reunir meus projetos acadêmicos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas no Ceub
+# Sobre mim
 - Estudante de ADS no CEUB
 - Estudante de Direito na Uniprocessus
 - Estagiário no STJ desde 2023.
