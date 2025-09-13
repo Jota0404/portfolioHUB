@@ -5,3 +5,6 @@
 - Apaixonado por tecnologia, justiça e inovação.
 - Inglês fluente e foco em desenvolvimento de software.
 - Interessado em aprender, crescer e transformar ideias em soluções.
+# Contato
+- [Linkedin/joaomarcosbfernandes](https://www.linkedin.com/in/joaomarcosbfernandes/)
+- [joao.bfernandes@sempreceub.com](joao.bfernandes@sempreceub.com)
